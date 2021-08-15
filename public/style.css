@@ -35,6 +35,7 @@ body {
 
 .messages {
   height: calc(650px - 40px - 100px);
+  padding: 8px;
 }
 
 .messages p {
